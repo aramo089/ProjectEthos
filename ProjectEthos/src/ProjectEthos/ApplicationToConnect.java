@@ -1,5 +1,8 @@
 package ProjectEthos;
 
+import java.lang.reflect.Array;
+import java.util.ArrayList;
+
 
 /**
  * 
@@ -7,8 +10,6 @@ package ProjectEthos;
  * 
  */
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 
 public class ApplicationToConnect {
 
