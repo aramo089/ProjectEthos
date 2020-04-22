@@ -1,5 +1,11 @@
 package ProjectEthos;
 
+/**
+ * 
+ * 
+ *
+ */
+
 public class RFIDScanner {
 	
 	private String sensorType;
