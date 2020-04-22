@@ -8,7 +8,7 @@ package ProjectEthos;
 
 public class ProximitySensor {
 	
-	private String sensorType;//This attribute will detail the name of Proximity type assigned to a Door class
+	private String sensorType;//This attribute will detail the type of Proximity sensor assigned to a Door class
 	private String sensorName;//This attribute will detail the name of Proximity Sensor assigned to a Door class
 	
 	
