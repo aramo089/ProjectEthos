@@ -5,7 +5,6 @@ import java.util.ArrayList;
 
 /**
  * 
- * @author Group1
  *	This object will contain the Event Log information for all the changes occurring in the system.
  *  This will also contain the log for any event that may occur such as adding a user, removing a user, 
  *  adding groups, removing groups, employees accessing the building. This will be the central source of events
