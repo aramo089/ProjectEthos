@@ -5,7 +5,7 @@ package ProjectEthos;
  * This class is an door object that will be used as part of the panel switch class.
  * This class is representative of a door object and will be used for security type doors.
  * 
- * @Group1
+ * 
  */
 public class Door {
 	

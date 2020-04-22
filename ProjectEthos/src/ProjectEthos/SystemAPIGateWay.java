@@ -6,7 +6,6 @@ package ProjectEthos;
  * can interface with other systems.This will contain the name if the application, 
  * the server address, the aAdmin account and Admin password for the systems.
  * 
- * @Group1
  */
 
 public class SystemAPIGateWay {

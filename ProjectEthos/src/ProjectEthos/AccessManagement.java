@@ -4,10 +4,10 @@ import java.util.Date;
 /**
  * 
  * This class will handle the Access Management and essentially act as a controller.
- * This will hand the addition/removal/assignment of users & groups
+ * This will hand the addition/removal/assignment of users and groups
  * This will hand the addition/removal of system access
  * 
- * @Group1
+ *
  */
 
 

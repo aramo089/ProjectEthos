@@ -6,7 +6,7 @@ import java.util.Date;
  * This class will will represent an employee. This will 
  * contain information about the employee, badge information, 
  * active and termination date, and if the employee is still active. 
- * @Group1
+ * 
  */
 public class User {
 

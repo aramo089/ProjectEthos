@@ -6,7 +6,7 @@ import java.util.ArrayList;
  * 
  * This class will is representative of a physical ID card.
  * 
- * @Group1
+ *
  */
 
 public class IDCard {

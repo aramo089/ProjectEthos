@@ -7,7 +7,7 @@ import java.util.Date;
  * This class is an alarm object that will be used as part of the schedule management class.
  * This class will notify owners that are assigned to the alarm object.
  * 
- * @Group1
+ * 
  */
 
 

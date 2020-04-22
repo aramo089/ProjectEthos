@@ -9,7 +9,7 @@ package ProjectEthos;
  * This class will have a scheduleGroup descriptor for added clarity. In addition, the assignSchedule 
  * operator will add the Schedule objects and the removeSchedule will remove them from the schedule 
  * group.
- * @Group1
+ * 
  */
 
 public class ScheduleManagement {

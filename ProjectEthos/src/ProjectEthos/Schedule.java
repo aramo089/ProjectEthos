@@ -8,7 +8,7 @@ import java.util.Date;
  * manage the access the employee has on his badge. Also, any access that is not part of the schedule, will be 
  * alerted to security or the owners via the Alarm class.
  * 
- * @Group1
+ * 
  */
 
 public class Schedule {

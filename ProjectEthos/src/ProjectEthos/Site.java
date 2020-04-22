@@ -6,7 +6,7 @@ package ProjectEthos;
  * This object will be use for Ethos to manage door security, schedules, and access.
  * Every site and location has a unique security, schedules, and access.
  * 
- * @Group1
+ * 
  */
 
 public class Site {
