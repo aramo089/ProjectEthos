@@ -16,13 +16,13 @@ public class ScheduleManagement {
 
 	private String scheduleGroup; //This will be used as a descriptor for the object.
 	
-	/*
+	/**
 	 * The assignSchedule will be used to assign the Schedule objects to a group. This will
 	 * be used to manage the schedules of employees entering the buildings
 	 */
 	public void assignSchedule() {
 	}
-	/*
+	/**
 	 * The assignSchedule will be used to remove the Schedule objects from a group. This will
 	 * be used to manage the schedules of employees entering the buildings.
 	 */
