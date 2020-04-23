@@ -10,7 +10,6 @@ import java.util.Date;
  *
  */
 
-
 public class AccessManagement {
 
 	private int userID; //This attribute will hold the user object
@@ -62,6 +61,18 @@ public class AccessManagement {
 	 * This operator will use the userID attribute and remove groups for users that were assigned in AccessManagment
 	 */
 	public void removeGroups() {
+	}
+	
+	/**
+	 * This operator will add an IDCard object to a User
+	 */
+	public void addIDcard() {
+	}
+	
+	/**
+	 * TThis operator will remove an IDCard object to a User
+	 */
+	public void removeIDcard() {
 	}
 	
 	

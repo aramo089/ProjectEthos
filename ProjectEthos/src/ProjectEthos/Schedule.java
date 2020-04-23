@@ -14,7 +14,7 @@ import java.util.Date;
 public class Schedule {
 	
 	private String schedule; // This will be used as a description for the schedule.
-	private Date start; // THis will be used to define the start of the schedule object.
+	private Date start; // This will be used to define the start of the schedule object.
 	private Date end; //This will be used to define the end of the schedule object.
 	/**
 	 * This operator will be called to restrict a schedule based on the attributes defined.

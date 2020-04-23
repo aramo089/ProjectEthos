@@ -14,8 +14,8 @@ import java.util.ArrayList;
 
 public class EventLog {
 	
-	private ArrayList  eventLog;  //This will contain the event log information
-	private ArrayList  systemLog; //This will contain the system log information
+	private ArrayList  eventLog;  //This will contain the event log information.
+	private ArrayList  systemLog; //This will contain the system log information.
 	
 	/**
 	 * This operator will record the log information into the event or system log.

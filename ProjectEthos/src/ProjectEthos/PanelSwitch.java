@@ -8,9 +8,9 @@ package ProjectEthos;
 
 public class PanelSwitch {
 
-	private String model; //This attribute will detail the model of the PanelSwitch that is being used
+	private String model; //This attribute will detail the model of the PanelSwitch that is being used.
 	private String typeMode; //This will detail the mode the PanelSwitch is operating in.
-	private String doorLocations; //This attribute will detail the location of a door within a site
+	private String doorLocations; //This attribute will detail the location of a door within a site.
 	
 	/**
 	 * The send operator will send a signal to a door command.
@@ -20,7 +20,7 @@ public class PanelSwitch {
 	}
 	
 	/**
-	 * The receive operator will receive a signal from a door object
+	 * The receive operator will receive a signal from a door object.
 	 */
 	public void receive() {
 	}

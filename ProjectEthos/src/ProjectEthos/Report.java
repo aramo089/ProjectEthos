@@ -10,18 +10,18 @@ package ProjectEthos;
 public class Report {
 	
 	private String reportName; //This attribute will detail the name of the report.
-	private String systemName; //This attribute will detail the name of the system the report is being generated for
-	private String reportExtractType; //This attribute will detail the format the report will be extracted in
+	private String systemName; //This attribute will detail the name of the system the report is being generated for.
+	private String reportExtractType; //This attribute will detail the format the report will be extracted in.
 	
 	
 	/**
-	 * This operator will generate a report against the chosen parameters
+	 * This operator will generate a report against the chosen parameters.
 	 */
 	public void runReport() {
 	}
 	
 	/**
-	 * This operator will allow for reports to be scheduled and automatically generated
+	 * This operator will allow for reports to be scheduled and automatically generated.
 	 */
 	public void scheduleReport() {
 	}

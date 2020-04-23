@@ -11,8 +11,8 @@ package ProjectEthos;
 
 public class Site {
 	
-	private String buildingName; //This will define the name of the building
-	private String nameLocation; // This will define the name of the building's locations
+	private String buildingName; //This will define the name of the building.
+	private String nameLocation; // This will define the name of the building's locations.
 	private int locationID; //This will be used identify the building.
 	
 	/**

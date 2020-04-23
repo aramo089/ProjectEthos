@@ -4,7 +4,7 @@ package ProjectEthos;
  * 
  * This class is a SystemAPIGateWay object, this will hold all the system so Ethos 
  * can interface with other systems.This will contain the name if the application, 
- * the server address, the aAdmin account and Admin password for the systems.
+ * the server address, the Admin account and Admin password for the systems.
  * 
  */
 

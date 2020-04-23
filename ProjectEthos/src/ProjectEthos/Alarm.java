@@ -10,7 +10,6 @@ import java.util.Date;
  * 
  */
 
-
 public class Alarm {
 
 	private String alarmName; //This attribute will define the Alarm Name that will be used alert owners
